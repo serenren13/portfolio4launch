@@ -4,8 +4,13 @@ export default function About() {
         <h1>Hi, I'm Serenity Phillips</h1>
         <p>I attend UNC, I enjoy coding</p>
         <h2>Here are some coding languages I enjoy...</h2>
-        <ul>
-            JSX, JS, React, HTML, CSS, Python, WebGL
-        </ul>
+        
+        <li>JSX</li>
+        <li>JS</li>
+        <li>React</li>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Python</li>
+        <li>WebGL</li>
     </div>
 }
